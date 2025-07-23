@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis
+# 📊 Sales Data Analysis on CSV FILE
 
 This project performs basic sales data analysis using Python, Pandas, and Matplotlib in a Jupyter Notebook. It includes data grouping, summarization, and visualization to derive meaningful insights from a CSV dataset.
 
